@@ -1,4 +1,2 @@
-Inventory management system 
-for git stash 
-
-
+hey! nice to meet you 
+hello ! is this visible?
